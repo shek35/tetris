@@ -1,2 +1,2 @@
 # tetris
-tetris in python
+tetris in python (only main.py)
